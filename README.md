@@ -1,4 +1,3 @@
-# Welcome to your Expo app 👋
 # 📱 Capture Text Mobile App
 
 A simple React Native app that allows users to input and send text to Firebase Cloud, which is then displayed in a desktop app.
